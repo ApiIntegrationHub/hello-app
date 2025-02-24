@@ -1,1 +1,1 @@
-Hello App for CICD
+Hello Application for CICD
